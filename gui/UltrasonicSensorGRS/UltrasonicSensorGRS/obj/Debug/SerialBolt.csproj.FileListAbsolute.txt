@@ -1,0 +1,11 @@
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\bin\Debug\SerialBolt.exe.config
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\bin\Debug\SerialBolt.exe
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\bin\Debug\SerialBolt.pdb
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.csprojResolveAssemblyReference.cache
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.Form1.resources
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.Properties.Resources.resources
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.csproj.GenerateResource.Cache
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.csproj.CoreCompileInputs.cache
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.exe
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\obj\Debug\SerialBolt.pdb
+C:\Users\Vadim Strekha\source\repos\SerialBolt\SerialBolt\bin\Debug\Bunifu_UI_v1.5.3.dll

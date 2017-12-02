@@ -1,0 +1,10 @@
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.csprojResolveAssemblyReference.cache
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.Form1.resources
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.csproj.GenerateResource.Cache
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.csproj.CoreCompileInputs.cache
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\bin\Debug\UltrasonicSensorGRS.exe.config
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\bin\Debug\UltrasonicSensorGRS.exe
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\bin\Debug\UltrasonicSensorGRS.pdb
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.Properties.Resources.resources
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.exe
+C:\Users\Vadim Strekha\Desktop\ultrasonic-sensor-grs\gui\UltrasonicSensorGRS\UltrasonicSensorGRS\obj\Debug\UltrasonicSensorGRS.pdb
